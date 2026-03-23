@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Subhadra%20Biswal&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Building%20the%20Future%2C%20One%20Commit%20at%20a%20Time%20🚀&descAlignY=60&descSize=18" />
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&random=false&width=600&lines=👩‍💻+B.Tech+CSE+Student;🤖+AI+%26+ML+Enthusiast;🌐+Full+Stack+Developer;📱+PWA+Builder;🔍+Resume+Analyzer+Creator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&random=false&width=600&lines=👩‍💻+B.Tech+CSE+Student;🤖+AI+%26+ML+Enthusiast;📈Data+Analytics;📱+PWA+Builder;🔍+Resume+Analyzer+Creator)](https://git.io/typing-svg)
 
 <br/>
 
@@ -207,7 +207,7 @@ current_focus = {
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subhadrasony1312-dot)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhadra-biswal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhadra-biswal-40229a330)
 &nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://subhadrasony1312-dot.github.io/my_website_flowers)
 
