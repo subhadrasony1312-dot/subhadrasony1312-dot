@@ -33,7 +33,8 @@ passion    : Building AI-powered tools that solve real problems
 
 > *"Code is poetry. I write it with heart."* 💜
 
-I'm a passionate **CSE undergrad** who loves turning ideas into impactful software. My current obsession? AI-driven tools — especially anything that uses machine learning to make people's lives easier. I enjoy crafting clean frontends, wiring them to smart backends, and shipping things that actually work.
+I'm a passionate **CSE undergrad** who loves turning ideas into impactful software. My current obsession? AI-driven tools — especially anything that uses machine learning to make people's lives easier. I enjoy crafting clean frontends, wiring them to smart backends, and shipping things that actually work. 
+My objective is to enhance my skill, become a data Analyst, and advance my career in the feild of data analytics.
 
 ---
 
