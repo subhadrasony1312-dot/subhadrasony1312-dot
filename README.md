@@ -51,8 +51,7 @@ My objective is to enhance my skill, become a data Analyst, and advance my caree
 
 ### 🌐 Frameworks & Libraries
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🤖 AI / ML
@@ -61,6 +60,7 @@ My objective is to enhance my skill, become a data Analyst, and advance my caree
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ### 🗄️ Databases & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -68,12 +68,15 @@ My objective is to enhance my skill, become a data Analyst, and advance my caree
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ### ☁️ Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 </div>
 
@@ -111,7 +114,7 @@ My objective is to enhance my skill, become a data Analyst, and advance my caree
 └─────────────────────────────────────────────────────────┘
 ```
 
-> Built to help job seekers get past Applicant Tracking Systems (ATS) with intelligent, AI-powered feedback.
+> Built to help companies to quickly evaluate resumes get past Applicant Tracking Systems (ATS) with intelligent, AI-powered feedback.
 
 </div>
 
@@ -222,8 +225,7 @@ current_focus = {
 ## 💬 Fun Facts About Me
 
 - 🌸 I designed a **floral-themed personal website** because code can be beautiful too
-- 🤖 I built an **AI-Based resume analyzer** to help people land better jobs — including my own future self!
-- 📱 I turned that project into a **PWA** so it works offline too — accessibility matters
+- 🤖 I built an **AI-Based resume analyzer** to help companies to analyze multiple resume at a time using AI !
 - 🌱 I believe in **learning by building** — every repo is a lesson
 - ☕ Best debugging fuel: chai and curiosity
 
